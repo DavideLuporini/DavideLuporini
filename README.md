@@ -20,3 +20,9 @@
 Learning: <br/>
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
+
+contact:  
+email : davideluporini1996.gr@gmail.com
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavideLuporini&layout=compact)
+
