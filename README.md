@@ -5,6 +5,12 @@
 ## I'm a full stack web developer student!
 
 
+🌱 I’m currently learning laravel
+
+🥅 2022 Goals: stat carrer as full stack web developer
+
+⚡ Fun fact: I love soccer and play games
+
 
 ### Languages and Tools:
 
