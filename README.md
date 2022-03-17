@@ -24,5 +24,6 @@ Learning: <br/>
 contact:  
 email : davideluporini1996.gr@gmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavideLuporini&layout=compact)
+<br/>
+<img width='800' src="https://github-readme-stats.vercel.app/api/top-langs?username=DavideLuporini&show_icons=true&locale=en&layout=compact" alt="DavideLuporini" />
 
